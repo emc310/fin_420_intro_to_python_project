@@ -35,4 +35,5 @@ df = df[["IDRSSD", "quarter", "totSBloans_Delt", "t1_LR_lagged_1_year", "tot_SB_
 ### Questions:
 ## what are the summary statistics for De Novo vs non-De Novo banks?
 ## what are the summary statistics for banks pre-financial crisis, during the financial crisis, and lastly post-crisis?
-## what are summary statistics for Minority owned institutions?
+## create a scatterplot of the total change in Small business loans (totSBloans_Delt) and the lagged Tier 1 Leverage Ratio (t1_LR_lagged_1_year).
+## calculate the average (across banks) non-performing assets for each quarter.  Plot the results.
